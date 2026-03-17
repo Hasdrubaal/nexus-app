@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[3097,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"default"]
+3:I[99299,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"default"]
+5:I[36345,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[36345,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"ViewportBoundary"]
+a:I[36345,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"MetadataBoundary"]
+c:I[16153,[],"default"]
+:HL["/nexus-app/_next/static/chunks/cd12d60b00ae4eee.css","style"]
+:HL["/nexus-app/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nexus-app/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"MGP_ZidHeo8Vr6vrQ1kzH","c":["","blog","what-are-ai-agents"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","what-are-ai-agents","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/nexus-app/_next/static/chunks/cd12d60b00ae4eee.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/nexus-app/_next/static/chunks/6b2aff413b243d54.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$undefined"]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/nexus-app/_next/static/chunks/7ce5475dcb51590b.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[99352,["/nexus-app/_next/static/chunks/6b2aff413b243d54.js","/nexus-app/_next/static/chunks/7ce5475dcb51590b.js"],""]
+e:T1d3e,
+<p>You've heard the buzz. AI agents are "transforming business." They're "the future of work." Every tech headline seems to mention them.</p>
+<p>But if you're a small business owner running a team of 5, 15, or 50 people, you probably have one question: <strong>what does this actually mean for me?</strong></p>
+<p>This guide cuts through the jargon. No computer science degree required. By the end, you'll understand exactly what AI agents are, what they can (and can't) do, and whether they're worth your time and money.</p>
+
+<h2>What Is an AI Agent, Exactly?</h2>
+<p>An AI agent is software that can <strong>complete tasks on its own</strong>, using judgment to figure out the steps along the way.</p>
+<p>That's the key difference between an AI agent and the AI tools you might already use. When you ask ChatGPT to write an email, it writes one email and stops. An AI agent can check your inbox, identify which emails need responses, draft replies in your tone, flag the ones that need your personal touch, and send the rest — every morning, without you asking.</p>
+<p>Think of it this way:</p>
+<ul>
+<li><strong>Traditional software</strong> follows exact instructions. Click this button, get this result.</li>
+<li><strong>AI tools</strong> (like ChatGPT) respond to one prompt at a time. You ask, it answers.</li>
+<li><strong>AI agents</strong> take a goal and figure out the steps themselves. They plan, act, check their work, and adapt.</li>
+</ul>
+<p>A useful analogy: traditional software is like a vending machine. AI tools are like a very smart friend you can text one question at a time. An AI agent is like a competent employee who you can hand a project to and trust them to figure it out.</p>
+
+<h2>How Do AI Agents Actually Work?</h2>
+<p>You don't need to understand the engineering, but knowing the basic mechanics helps you evaluate whether an agent can handle a given task.</p>
+<p>Every AI agent follows a loop:</p>
+<ol>
+<li><strong>Perceive</strong> — The agent reads information from its environment. This could be your emails, your calendar, a customer database, a spreadsheet, or a support ticket queue.</li>
+<li><strong>Reason</strong> — Using a large language model (the same technology behind ChatGPT and Claude), the agent decides what to do. It breaks the goal into steps and picks the best next action.</li>
+<li><strong>Act</strong> — The agent takes action. It might send an email, update a CRM record, generate a report, or move a file.</li>
+<li><strong>Learn</strong> — The agent checks whether its action worked. If something went wrong, it adjusts. Over time, it gets better at handling your specific workflows.</li>
+</ol>
+<p>This loop runs continuously. Unlike a human employee who works 8 hours and needs sleep, an AI agent can monitor and act 24/7.</p>
+
+<h2>What Can AI Agents Do for a Small Business?</h2>
+<p>Here's where it gets practical. AI agents are strongest at tasks that are <strong>repetitive, rule-based, and time-consuming</strong> — exactly the kind of work that bogs down small teams.</p>
+
+<h3>Customer Support</h3>
+<p>An AI agent can handle your first line of customer support. It reads incoming tickets or chat messages, answers common questions using your knowledge base, escalates complex issues to your team, and follows up to make sure the customer is satisfied.</p>
+<p><strong>Real impact:</strong> Small businesses using AI support agents report handling 60–80% of routine inquiries without human involvement.</p>
+
+<h3>Email and Communication Management</h3>
+<p>An AI agent can triage your inbox, draft responses, schedule follow-ups, and flag urgent items. It learns your tone and communication style over time.</p>
+<p><strong>Real impact:</strong> Business owners report saving 5–10 hours per week on email management alone.</p>
+
+<h3>Sales and Lead Follow-Up</h3>
+<p>An AI agent can qualify incoming leads, send personalized follow-up sequences, update your CRM, and alert your sales team when a lead is ready to buy.</p>
+<p><strong>Real impact:</strong> Companies using AI for lead follow-up see 35–50% faster response times.</p>
+
+<h3>Scheduling and Admin</h3>
+<p>Meeting coordination, appointment booking, calendar management, travel arrangements — all tasks an AI agent handles well.</p>
+<p><strong>Real impact:</strong> Administrative tasks consume an estimated 16 hours per week for the average small business owner. AI agents can reclaim most of that.</p>
+
+<h3>Bookkeeping and Finance</h3>
+<p>AI agents can categorize expenses, reconcile transactions, generate financial reports, and flag anomalies.</p>
+<p><strong>Real impact:</strong> Businesses using AI for bookkeeping report reducing month-end close time by 40–60%.</p>
+
+<h3>Content and Marketing</h3>
+<p>An AI agent can draft social media posts, write first drafts of blog content, manage posting schedules, and analyze which content performs best.</p>
+<p><strong>Real impact:</strong> Small marketing teams using AI agents produce 3–5x more content without adding headcount.</p>
+
+<h2>What AI Agents Cannot Do</h2>
+<p>Let's be honest about the limitations:</p>
+<ul>
+<li><strong>They can't replace strategic thinking.</strong> An AI agent can execute your marketing plan, but it can't decide whether you should enter a new market.</li>
+<li><strong>They struggle with novel situations.</strong> AI agents excel at patterns. Truly unprecedented events need human judgment.</li>
+<li><strong>They don't build relationships.</strong> The relationship-building that drives loyalty is a human skill.</li>
+<li><strong>They need setup and oversight.</strong> Think of the first few weeks like onboarding a new employee.</li>
+<li><strong>They can make mistakes.</strong> That's why good platforms include human-in-the-loop controls.</li>
+</ul>
+
+<h2>Are AI Agents Worth It for Small Businesses?</h2>
+<p>Let's look at the numbers.</p>
+<p><strong>The cost:</strong> Most AI agent platforms for small businesses range from $200 to $500 per month. Individual agents for specific tasks can start as low as $20–50/month.</p>
+<p><strong>What you'd pay a human:</strong> A junior administrative hire costs $35,000–$55,000/year in salary alone. Add benefits, taxes, and management overhead, and you're looking at $50,000–$75,000. That's $4,200–$6,250 per month.</p>
+<p>According to Salesforce's 2026 SMB Trends Report, 93% of small businesses using AI to scale reported revenue growth, and 82% reported cost reductions.</p>
+
+<h2>How to Get Started</h2>
+<ol>
+<li><strong>Identify your biggest time sinks.</strong> Track where you and your team's hours go for one week.</li>
+<li><strong>Start with one agent, one task.</strong> Pick the single task that wastes the most time.</li>
+<li><strong>Review and expand.</strong> Add one new agent per month as you build confidence.</li>
+<li><strong>Consider an integrated platform.</strong> Platforms like Nexus bundle multiple AI agents into a unified system designed specifically for small businesses.</li>
+</ol>
+
+<h2>The Bottom Line</h2>
+<p>AI agents are the most significant productivity tool to hit small business since email. The businesses that adopt AI agents now will have a compounding advantage. Every week an agent handles your admin is a week your team spends on growth.</p>
+<p>The question isn't whether AI agents will become standard for small businesses — 58% already use generative AI, and that number is accelerating. The question is whether you'll be ahead of the curve or catching up.</p>
+    4:["$","div",null,{"className":"flex min-h-screen flex-col bg-zinc-50 font-sans dark:bg-black","children":[["$","nav",null,{"className":"sticky top-0 z-50 border-b border-zinc-200/60 bg-zinc-50/80 backdrop-blur-lg dark:border-zinc-800/60 dark:bg-black/80","children":["$","div",null,{"className":"flex items-center justify-between px-8 py-4 max-w-6xl mx-auto w-full","children":[["$","$Ld",null,{"href":"/","className":"text-xl font-bold text-zinc-900 dark:text-zinc-50","children":"Nexus"}],["$","div",null,{"className":"flex items-center gap-3","children":[["$","$Ld",null,{"href":"/blog","className":"text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-50 transition-colors","children":"Blog"}],["$","$Ld",null,{"href":"/register","className":"rounded-full bg-zinc-900 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-zinc-700 dark:bg-zinc-50 dark:text-zinc-900 dark:hover:bg-zinc-200","children":"Get Started"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-3xl px-8 py-16 w-full","children":[["$","$Ld",null,{"href":"/blog","className":"text-sm text-zinc-500 hover:text-zinc-700 dark:hover:text-zinc-300 transition-colors mb-8 inline-block","children":"← Back to Blog"}],["$","article",null,{"children":[["$","header",null,{"className":"mb-12","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-zinc-900 dark:text-zinc-50 mb-4 leading-tight","children":"What Are AI Agents? A Small Business Owner's Guide"}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-zinc-500","children":[["$","span",null,{"children":"Nexus Content Team"}],["$","span",null,{"children":"2026-03-16"}],["$","span",null,{"children":"10 min read"}]]}]]}],["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none prose-headings:font-semibold prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4 prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3 prose-p:leading-7 prose-p:text-zinc-700 dark:prose-p:text-zinc-300 prose-li:text-zinc-700 dark:prose-li:text-zinc-300 prose-strong:text-zinc-900 dark:prose-strong:text-zinc-50 prose-table:text-sm prose-th:text-left prose-th:py-2 prose-th:px-3 prose-th:bg-zinc-100 dark:prose-th:bg-zinc-800 prose-td:py-2 prose-td:px-3 prose-td:border-t prose-td:border-zinc-200 dark:prose-td:border-zinc-700","dangerouslySetInnerHTML":{"__html":"$e"}}]]}],"$Lf"]}],"$L10"]}]
+f:["$","div",null,{"className":"mt-16 rounded-2xl border border-zinc-200 bg-white p-8 text-center dark:border-zinc-800 dark:bg-zinc-900","children":[["$","h3",null,{"className":"text-xl font-semibold text-zinc-900 dark:text-zinc-50 mb-2","children":"Ready to put AI to work?"}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-400 mb-6","children":"Deploy your first AI agent team today. Free to start."}],["$","$Ld",null,{"href":"/register","className":"inline-flex rounded-full bg-zinc-900 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-zinc-700 dark:bg-zinc-50 dark:text-zinc-900 dark:hover:bg-zinc-200","children":"Get Started Free"}]]}]
+10:["$","footer",null,{"className":"mt-auto border-t border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"mx-auto max-w-6xl px-8 py-8 flex items-center justify-between","children":[["$","span",null,{"className":"text-sm text-zinc-500","children":"Nexus. AI-powered business automation."}],["$","span",null,{"className":"text-sm text-zinc-400","children":"Early Access 2026"}]]}]}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[20414,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"What Are AI Agents? A Small Business Owner's Guide - Nexus Blog"}],["$","meta","1",{"name":"description","content":"AI agents explained in plain English. Learn what AI agents are, how they work, and how small businesses are using them to automate operations and save 10+ hours per week."}],["$","meta","2",{"property":"og:title","content":"What Are AI Agents? A Small Business Owner's Guide"}],["$","meta","3",{"property":"og:description","content":"AI agents explained in plain English. Learn what AI agents are, how they work, and how small businesses are using them to automate operations and save 10+ hours per week."}],["$","meta","4",{"property":"og:type","content":"article"}],["$","meta","5",{"property":"article:published_time","content":"2026-03-16"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"What Are AI Agents? A Small Business Owner's Guide"}],["$","meta","8",{"name":"twitter:description","content":"AI agents explained in plain English. Learn what AI agents are, how they work, and how small businesses are using them to automate operations and save 10+ hours per week."}],["$","link","9",{"rel":"icon","href":"/nexus-app/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","10",{}]]

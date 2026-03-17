@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+2:I[3097,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"default"]
+3:I[99299,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"default"]
+5:I[36345,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[36345,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"ViewportBoundary"]
+a:I[36345,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"MetadataBoundary"]
+c:I[16153,[],"default"]
+:HL["/nexus-app/_next/static/chunks/cd12d60b00ae4eee.css","style"]
+:HL["/nexus-app/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nexus-app/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"MGP_ZidHeo8Vr6vrQ1kzH","c":["","blog","ai-vs-hiring-cost-comparison"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","ai-vs-hiring-cost-comparison","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/nexus-app/_next/static/chunks/cd12d60b00ae4eee.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/nexus-app/_next/static/chunks/6b2aff413b243d54.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$undefined"]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/nexus-app/_next/static/chunks/7ce5475dcb51590b.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[99352,["/nexus-app/_next/static/chunks/6b2aff413b243d54.js","/nexus-app/_next/static/chunks/7ce5475dcb51590b.js"],""]
+e:T14ff,
+<p>You need more capacity. Customer emails are piling up. Leads aren't getting followed up. Your bookkeeping is three weeks behind.</p>
+<p>The old answer was simple: hire someone. But in 2026, there's a real alternative. AI agents can now handle many of the tasks you'd hire for — at a fraction of the cost, available 24/7, with no onboarding period.</p>
+<p>This article breaks down the true costs of both options, including the hidden expenses most comparisons ignore.</p>
+
+<h2>The True Cost of Hiring an Employee</h2>
+<p>Most business owners dramatically underestimate what an employee actually costs. Salary is just the starting point.</p>
+
+<h3>The Real Number</h3>
+<table>
+<thead><tr><th>Cost Category</th><th>Annual Amount</th></tr></thead>
+<tbody>
+<tr><td>Base salary</td><td>$45,000</td></tr>
+<tr><td>Benefits (health, retirement, PTO)</td><td>$12,000</td></tr>
+<tr><td>Payroll taxes</td><td>$3,800</td></tr>
+<tr><td>Recruiting (amortized)</td><td>$1,600</td></tr>
+<tr><td>Equipment and software</td><td>$3,000</td></tr>
+<tr><td>Workspace</td><td>$3,600</td></tr>
+<tr><td>Management overhead (4 hrs/week)</td><td>$10,400</td></tr>
+<tr><td><strong>Total annual cost</strong></td><td><strong>$79,400</strong></td></tr>
+<tr><td><strong>Monthly cost</strong></td><td><strong>$6,617</strong></td></tr>
+</tbody>
+</table>
+
+<h2>The True Cost of AI Agents</h2>
+
+<h3>AI Only</h3>
+<table>
+<thead><tr><th>Cost Category</th><th>Annual Amount</th></tr></thead>
+<tbody>
+<tr><td>AI platform subscription</td><td>$4,200</td></tr>
+<tr><td>Usage overage</td><td>$1,200</td></tr>
+<tr><td>Setup time (amortized)</td><td>$750</td></tr>
+<tr><td>Ongoing oversight</td><td>$5,200</td></tr>
+<tr><td><strong>Total annual cost</strong></td><td><strong>$11,350</strong></td></tr>
+<tr><td><strong>Monthly cost</strong></td><td><strong>$946</strong></td></tr>
+</tbody>
+</table>
+
+<h3>AI + Part-Time VA Hybrid</h3>
+<table>
+<thead><tr><th>Cost Category</th><th>Annual Amount</th></tr></thead>
+<tbody>
+<tr><td>AI platform subscription</td><td>$4,200</td></tr>
+<tr><td>Usage overage</td><td>$1,200</td></tr>
+<tr><td>Part-time VA (12 hrs/week)</td><td>$12,480</td></tr>
+<tr><td>Setup and oversight time</td><td>$3,950</td></tr>
+<tr><td><strong>Total annual cost</strong></td><td><strong>$21,830</strong></td></tr>
+<tr><td><strong>Monthly cost</strong></td><td><strong>$1,819</strong></td></tr>
+</tbody>
+</table>
+
+<h2>The Side-by-Side Comparison</h2>
+<table>
+<thead><tr><th>Factor</th><th>Full-Time Hire</th><th>AI Only</th><th>AI + Part-Time VA</th></tr></thead>
+<tbody>
+<tr><td><strong>Annual cost</strong></td><td>$79,400</td><td>$11,350</td><td>$21,830</td></tr>
+<tr><td><strong>Availability</strong></td><td>~40 hrs/week</td><td>24/7/365</td><td>24/7 AI + 12 hrs human</td></tr>
+<tr><td><strong>Ramp-up time</strong></td><td>3–6 months</td><td>2–4 weeks</td><td>2–4 weeks</td></tr>
+<tr><td><strong>Scalability</strong></td><td>Linear</td><td>Near-instant</td><td>Moderate</td></tr>
+<tr><td><strong>First-year savings</strong></td><td>—</td><td>$68,050 (86%)</td><td>$57,570 (72%)</td></tr>
+</tbody>
+</table>
+<p>The financial case is stark. AI-only solutions cost <strong>86% less</strong> than hiring. Even the hybrid model costs <strong>72% less</strong>.</p>
+
+<h2>When to Choose AI</h2>
+<ul>
+<li><strong>Your bottleneck is volume, not complexity.</strong> Repetitive, structured tasks are AI's sweet spot.</li>
+<li><strong>You need 24/7 coverage.</strong> Customer support at 2 AM. Lead follow-up on weekends.</li>
+<li><strong>Speed matters.</strong> AI agents respond in seconds.</li>
+<li><strong>You're bootstrapping or cash-constrained.</strong> $200–500/month vs. $6,600/month.</li>
+<li><strong>The task is well-defined.</strong> If you can write clear instructions, an AI agent can learn to do it.</li>
+</ul>
+
+<h2>When to Hire a Human</h2>
+<ul>
+<li><strong>The role is primarily relationship-driven.</strong> Account management, partnerships, business development.</li>
+<li><strong>The work requires physical presence.</strong> AI agents are digital.</li>
+<li><strong>Strategic judgment is the core requirement.</strong> COO, senior marketer, product lead.</li>
+<li><strong>You need creative leadership.</strong> AI can execute from a brief but can't set creative direction.</li>
+<li><strong>Culture and mentorship matter.</strong> Building team culture is irreplaceable human work.</li>
+</ul>
+
+<h2>The Smart Framework: How to Decide</h2>
+<p>For each task or role, ask four questions:</p>
+<ol>
+<li><strong>Is it structured or unstructured?</strong> Structured → AI. Unstructured → Human.</li>
+<li><strong>Does it require real-time human connection?</strong> No → AI. Yes → Human.</li>
+<li><strong>How does it scale?</strong> Volume → AI. Complexity → Human.</li>
+<li><strong>What's the error tolerance?</strong> Low stakes → AI is fine. High stakes → Human oversight required.</li>
+</ol>
+
+<h2>The Bottom Line</h2>
+<p>The answer for most small businesses in 2026 is <strong>AI-first, humans for what AI can't do.</strong></p>
+<p>Start with AI for every structured, repetitive task. Hire humans for strategy, relationships, and creative leadership. Use the savings to invest in growth.</p>
+<p>The businesses that get this balance right won't just save money — they'll outperform competitors who are still solving every capacity problem by adding headcount.</p>
+    4:["$","div",null,{"className":"flex min-h-screen flex-col bg-zinc-50 font-sans dark:bg-black","children":[["$","nav",null,{"className":"sticky top-0 z-50 border-b border-zinc-200/60 bg-zinc-50/80 backdrop-blur-lg dark:border-zinc-800/60 dark:bg-black/80","children":["$","div",null,{"className":"flex items-center justify-between px-8 py-4 max-w-6xl mx-auto w-full","children":[["$","$Ld",null,{"href":"/","className":"text-xl font-bold text-zinc-900 dark:text-zinc-50","children":"Nexus"}],["$","div",null,{"className":"flex items-center gap-3","children":[["$","$Ld",null,{"href":"/blog","className":"text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-50 transition-colors","children":"Blog"}],["$","$Ld",null,{"href":"/register","className":"rounded-full bg-zinc-900 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-zinc-700 dark:bg-zinc-50 dark:text-zinc-900 dark:hover:bg-zinc-200","children":"Get Started"}]]}]]}]}],["$","main",null,{"className":"mx-auto max-w-3xl px-8 py-16 w-full","children":[["$","$Ld",null,{"href":"/blog","className":"text-sm text-zinc-500 hover:text-zinc-700 dark:hover:text-zinc-300 transition-colors mb-8 inline-block","children":"← Back to Blog"}],["$","article",null,{"children":[["$","header",null,{"className":"mb-12","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-zinc-900 dark:text-zinc-50 mb-4 leading-tight","children":"AI vs Hiring: The True Cost Comparison for Small Businesses"}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-zinc-500","children":[["$","span",null,{"children":"Nexus Content Team"}],["$","span",null,{"children":"2026-03-16"}],["$","span",null,{"children":"12 min read"}]]}]]}],["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none prose-headings:font-semibold prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4 prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3 prose-p:leading-7 prose-p:text-zinc-700 dark:prose-p:text-zinc-300 prose-li:text-zinc-700 dark:prose-li:text-zinc-300 prose-strong:text-zinc-900 dark:prose-strong:text-zinc-50 prose-table:text-sm prose-th:text-left prose-th:py-2 prose-th:px-3 prose-th:bg-zinc-100 dark:prose-th:bg-zinc-800 prose-td:py-2 prose-td:px-3 prose-td:border-t prose-td:border-zinc-200 dark:prose-td:border-zinc-700","dangerouslySetInnerHTML":{"__html":"$e"}}]]}],"$Lf"]}],"$L10"]}]
+f:["$","div",null,{"className":"mt-16 rounded-2xl border border-zinc-200 bg-white p-8 text-center dark:border-zinc-800 dark:bg-zinc-900","children":[["$","h3",null,{"className":"text-xl font-semibold text-zinc-900 dark:text-zinc-50 mb-2","children":"Ready to put AI to work?"}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-400 mb-6","children":"Deploy your first AI agent team today. Free to start."}],["$","$Ld",null,{"href":"/register","className":"inline-flex rounded-full bg-zinc-900 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-zinc-700 dark:bg-zinc-50 dark:text-zinc-900 dark:hover:bg-zinc-200","children":"Get Started Free"}]]}]
+10:["$","footer",null,{"className":"mt-auto border-t border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"mx-auto max-w-6xl px-8 py-8 flex items-center justify-between","children":[["$","span",null,{"className":"text-sm text-zinc-500","children":"Nexus. AI-powered business automation."}],["$","span",null,{"className":"text-sm text-zinc-400","children":"Early Access 2026"}]]}]}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[20414,["/nexus-app/_next/static/chunks/33074d3ff5d0cd2d.js","/nexus-app/_next/static/chunks/c4d90098b4abc498.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"AI vs Hiring: The True Cost Comparison for Small Businesses - Nexus Blog"}],["$","meta","1",{"name":"description","content":"A detailed cost breakdown of AI agents vs hiring employees for small businesses. Compare real numbers for salary, AI tools, productivity, and ROI to make the right decision."}],["$","meta","2",{"property":"og:title","content":"AI vs Hiring: The True Cost Comparison for Small Businesses"}],["$","meta","3",{"property":"og:description","content":"A detailed cost breakdown of AI agents vs hiring employees for small businesses. Compare real numbers for salary, AI tools, productivity, and ROI to make the right decision."}],["$","meta","4",{"property":"og:type","content":"article"}],["$","meta","5",{"property":"article:published_time","content":"2026-03-16"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"AI vs Hiring: The True Cost Comparison for Small Businesses"}],["$","meta","8",{"name":"twitter:description","content":"A detailed cost breakdown of AI agents vs hiring employees for small businesses. Compare real numbers for salary, AI tools, productivity, and ROI to make the right decision."}],["$","link","9",{"rel":"icon","href":"/nexus-app/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","10",{}]]
